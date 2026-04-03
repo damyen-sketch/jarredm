@@ -40,6 +40,10 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.stabilo {
+    color: #FFF8D4;
+}
+
 .cortis {
     display: flex;
     align-items: center;
