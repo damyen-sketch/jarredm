@@ -4,9 +4,8 @@
 }
 
 .back {
+  padding: 1rem;
   background-color: #313647;
-  width: 100%;
-  box-sizing: border-box;
 }
 
 .back a {
