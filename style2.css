@@ -5,6 +5,9 @@
 
 .back {
   background-color: #313647;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 .back a {
